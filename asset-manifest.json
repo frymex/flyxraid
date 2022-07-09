@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/flyxraid/static/js/main.0618cf17.js",
+    "static/js/377.b7793882.chunk.js": "/flyxraid/static/js/377.b7793882.chunk.js",
+    "index.html": "/flyxraid/index.html",
+    "main.0618cf17.js.map": "/flyxraid/static/js/main.0618cf17.js.map",
+    "377.b7793882.chunk.js.map": "/flyxraid/static/js/377.b7793882.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0618cf17.js"
+  ]
+}
